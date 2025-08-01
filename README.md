@@ -2,7 +2,7 @@
 
 Static A‑Frame scene visualizing large_DDD_model GLB model.
 
-📦 **Live Demo**: https://github.com/Elias-P-M/CMS3-DDD-small-project/
+📦 **Live Demo**: https://github.com/Elias-P-M/CMS3-DDD-small-project/index.html
 
 ---
 
